@@ -8,10 +8,10 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import pandas and read the csv file.
-2.Encoding the data and Import Decision tree classifier.
-3.Fit the data in the model.
-4.Find the MSE , r2 and the Predicted. 
+1. Import pandas and read the csv file.
+2. Encoding the data and Import Decision tree classifier.
+3. Fit the data in the model.
+4. Find the MSE , r2 and the Predicted. 
 
 ## Program:
 ```python
